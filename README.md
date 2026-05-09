@@ -141,7 +141,7 @@ System evaluation was performed through repeated sensor testing and operational 
 
 ### System Response Demonstration
 The video below demonstrates automatic rain detection, LCD status updates, and servo motor actuation in real time.
-[System Demonstration](images/system_demo.mp4)
+[System Demonstration](demo/system_demo.mp4)
 
 ---
 
